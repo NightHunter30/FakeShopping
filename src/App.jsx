@@ -10,6 +10,7 @@ import AddProduct from "./Pages/AddProduct";
 import EditProduct from "./Pages/EditProduct";
 
 function App() {
+  // This app component
   return (
     <BrowserRouter>
       <NavigationBar />
